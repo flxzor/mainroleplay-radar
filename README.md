@@ -1,4 +1,5 @@
 
+[![Download count](https://img.shields.io/github/downloads/flxzor/mainroleplay-radar/total.svg)]()
 ## Main Roleplay Radar Mod
 Radar map mod for the "Main Roleplay" GTA San Andreas Multiplayer server.
 
