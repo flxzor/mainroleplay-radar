@@ -11,7 +11,7 @@ Radar map mod for the "Main Roleplay" GTA San Andreas Multiplayer server.
 ### Installation
 1. Download the radar mod files provided in the [release](https://github.com/flxzor/mainroleplay-radar/releases).  
 2. Extract the downloaded file.  
-3. Copy and paste the extracted folder `Main Roleplay Radar Mod` into the `Modloader` folder of your game directory.
+3. Copy and paste the extracted folder `Main Roleplay Radar Mod` into the `Modloader` folder of your GTA San Andreas directory.
 
 ### Disclaimer
 This mod is intended for use only within the Main Roleplay server. Redistribution or modification of this mod without proper credit is prohibited.
