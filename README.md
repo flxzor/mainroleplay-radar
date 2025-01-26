@@ -8,6 +8,8 @@
 ## Main Roleplay Radar Mod
 Radar map mod for the "Main Roleplay" GTA San Andreas Multiplayer server.
 
+https://discord.gg/mainroleplay
+
 
 ### Credits
 - **Mod created by**: Exvazor (flxzor)  
