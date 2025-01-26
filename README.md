@@ -3,7 +3,8 @@
 
 
 
-![GitHub release](https://img.shields.io/github/v/release/flxzor/mainroleplay-radar)
+![GitHub release](https://img.shields.io/github/v/release/flxzor/mainroleplay-radar?color=blue)
+![GitHub total count](https://img.shields.io/github/downloads/flxzor/mainroleplay-radar/latest/total.svg?color=blue)
 ## Main Roleplay Radar Mod
 Radar map mod for the "Main Roleplay" GTA San Andreas Multiplayer server.
 
