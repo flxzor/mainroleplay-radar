@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/4e800629-d0f4-4bda-8f6d-6c0f7cf0b5c4" alt="radar" width="515" height="515">
+<img src="https://github.com/user-attachments/assets/4e800629-d0f4-4bda-8f6d-6c0f7cf0b5c4" alt="radar" width="50%" height="50%">
 
 
 
