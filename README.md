@@ -21,5 +21,8 @@ https://discord.gg/mainroleplay
 2. Extract the downloaded file.  
 3. Copy and paste the extracted folder `Main Roleplay Radar Mod` into the `Modloader` folder of your GTA San Andreas directory.
 
+### How To Contribute
+- Please read [CONTRIBUTING.md](https://github.com/flxzor/mainroleplay-radar/blob/main/CONTRIBUTING.md)
+
 ### Disclaimer
 This mod is intended for use only within the Main Roleplay server. Redistribution or modification of this mod without proper credit is prohibited.
