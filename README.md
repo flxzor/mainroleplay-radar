@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> As of 07/16/25, **Main Roleplay Radar** has been discontinued  
+> (Due to the permanent shutdown of the **Main Roleplay** server).
 
 <img src="https://github.com/flxzor/mainroleplay-radar/blob/main/Merged/radar.png" alt="radar" width="50%" height="50%">
 
